@@ -33,7 +33,7 @@ export default function LuxuryTravelAgencyTemplatePage() {
                         { name: "Services", id: "services" },
                         { name: "Destinations", id: "destinations" },
                         { name: "Reviews", id: "reviews" },
-                        { name: "Contact", href: "/contact" }
+                        { name: "Contact", id: "/contact" }
                     ]}
                     brandName="Luxuria"
                     button={{ text: "Plan Your Trip", href: "/contact" }}

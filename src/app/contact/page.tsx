@@ -13,7 +13,7 @@ export default function ContactPage() {
         { name: "Services", id: "services" },
         { name: "Destinations", id: "destinations" },
         { name: "Reviews", id: "reviews" },
-        { name: "Contact", href: "/contact" }
+        { name: "Contact", id: "/contact" }
     ];
 
     const navbarButton = { text: "Plan Your Trip", href: "/contact" };
